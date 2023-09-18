@@ -5,3 +5,4 @@ FOR VERTIAS AI FELLOWSHIP PROJECT
 2. Then you must download the Crash_Table.csv from this Kaggle notbook(https://www.kaggle.com/datasets/asefjamilajwad/car-crash-dataset-ccd).
 
 3. Then after that you have to create two folders named "test" and "train" to store whatever your model makes.
+
